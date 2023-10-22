@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular,Springboot**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android!**
 
 - 📫 How to reach me **gaganachiranjithacoc2@gmail.com**
 
